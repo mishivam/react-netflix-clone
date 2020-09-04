@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+/public
+/src/serviceWorker.js
+/src/setupTests.js
 # production
 /build
 
