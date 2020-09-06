@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/.firebase
 /.pnp
 .pnp.js
 
@@ -11,6 +12,8 @@
 /public
 /src/serviceWorker.js
 /src/setupTests.js
+/src/js/firebase.js
+/.vscode
 # production
 /build
 
@@ -24,3 +27,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+firebase.json
+.firebaserc
